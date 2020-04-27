@@ -1,0 +1,6 @@
+file=d:\2qubak\exp\exp_st1.dmp
+log=d:\2qubak\exp\impexp_st1.log
+buffer=99999999
+ignore=y
+fromuser=pbs
+touser=pbs

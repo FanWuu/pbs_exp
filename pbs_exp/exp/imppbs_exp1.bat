@@ -1,0 +1,11 @@
+imp pbs/pbs2000@pbs2qu parfile=impexp_q.par
+imp pbs/pbs2000@pbs2qu parfile=impexp_st1.par
+imp pbs/pbs2000@pbs2qu parfile=impexp_st2.par
+imp pbs/pbs2000@pbs2qu parfile=impexp_hisiy.par
+imp pbs/pbs2000@pbs2qu parfile=impexp_his1.par
+imp pbs/pbs2000@pbs2qu parfile=impexp_his2.par
+imp pbs/pbs2000@pbs2qu parfile=impexp_his3.par
+imp pbs/pbs2000@pbs2qu parfile=impexp_his4.par
+imp pbs/pbs2000@pbs2qu parfile=impexp_his5.par
+imp pbs/pbs2000@pbs2qu parfile=impexp_his6.par
+imp pbs/pbs2000@pbs2qu parfile=impexp_his7.par

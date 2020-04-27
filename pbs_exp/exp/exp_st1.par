@@ -1,0 +1,8 @@
+file=d:\2qubak\exp\exp_st1.dmp
+log=d:\2qubak\exp\exp_st1.log
+buffer=99999999
+tables=(
+STATIS_DAY_COMPUTE,
+STATIS_DAY_PHASE_COMPUTE,
+STATIS_DAY_PHASE_PULSE,
+STATIS_DAY_PULSE)
